@@ -1,3 +1,4 @@
+#Funcion que convierte una lista a de grados Celcius a Fahrenheit
 def Conversion(c):
     Far=[]
     for i in c:
